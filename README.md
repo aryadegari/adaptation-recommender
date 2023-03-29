@@ -1,4 +1,4 @@
-# KPI-based Adaptation Recommendation in Business Processes
+# KPI-driven Adaptation Recommendation in Business Processes
 
 The main implementation is available at [Adaptation Recommender 3.ipynb](https://github.com/aryadegari/adaptation-recommender/blob/main/Adaptation%20Recommender%203.ipynb)
 
